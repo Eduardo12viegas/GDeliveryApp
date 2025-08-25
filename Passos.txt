@@ -1,0 +1,13 @@
+git config --global user.name Eduardo.viegas
+git config --global user.email Eduardo.viegas@etec.sp.gov.br
+
+npx create-expo-app@latest GDelivery
+
+cd  GDelivery
+npm run reset-project  --> presione 'n'
+
+criar uma pasta constants
+criar um arquivo Colors.ts na pasta constants
+
+criar uma pasta components
+criar um arquivo CustomHeader.tsx na pasta components -> rnfs
