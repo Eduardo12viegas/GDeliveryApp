@@ -5,8 +5,8 @@ export default function Index() {
     <View
       style={{
         flex: 1,
-        marginTop: 60,
-        backgroundColor: 'blue'
+        marginTop: 120,
+        backgroundColor: 'yellow'
       }}
     >
       <Text>Edit app/index.tsx to edit this screen.</Text>

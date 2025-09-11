@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "GDelivery",
-    "slug": "GDelivery",
+    "name": "galloDelivery",
+    "slug": "galloDelivery",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "gdelivery",
+    "scheme": "gallodelivery",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
