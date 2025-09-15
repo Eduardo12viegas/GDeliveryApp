@@ -6,6 +6,7 @@ import { Link } from 'expo-router';
 import BottomSheet from './BottomSheet';
 import { BottomSheetModal } from'@gorhom/bottom-sheet';
 
+
 const SearchBar = () => 
   <View style={styles.searchContainer}>
     <View style={styles.searchField}>
